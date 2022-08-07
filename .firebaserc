@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "fir-angular-1acf0"
+  },
+  "targets": {
+    "fir-angular-1acf0": {
+      "hosting": {
+        "firebase_angular": [
+          "fir-angular-1acf0"
+        ]
+      }
+    }
+  }
+}

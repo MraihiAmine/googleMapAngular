@@ -13,6 +13,7 @@ export const environment = {
     authDomain: 'fir-angular-1acf0.firebaseapp.com',
     messagingSenderId: '347998239894',
     measurementId: 'G-751303P981',
+    
   },
   production: false
 };
